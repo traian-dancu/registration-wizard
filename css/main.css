@@ -1,0 +1,22 @@
+div {
+	margin: 21px;
+}
+label {
+	font-size: large;
+}
+input {
+	width: 300px;
+	height: 20px;
+}
+#tabs {
+	width: 400px;
+	height: auto;
+}
+.confirm {
+	width: 120px;
+}
+.button {
+	width: 50px;
+	float: right;
+	padding-bottom: 18px;
+}
